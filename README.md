@@ -4,14 +4,14 @@ This project is developed as part of a research project of the [Cluster of Excel
 **Project Name**: [Knowledge Representation for Multi-Disciplinary Co-Design of Buildings](https://www.intcdc.uni-stuttgart.de/research/research-projects/rp-20/)
 
 
-## Team
+** Team**
 
-### University of Stuttgart 
+** University of Stuttgart **
 Diellza Elshani, Tenure-Track Prof. Dr. Thomas Wortmann, Chair for Computing in Architecture, [Institute for Computational Design and Construction (ICD)](https://www.icd.uni-stuttgart.de/), University of Stuttgart 
 
 Prof. Dr. Steffen Staab, Department for Analytic Computing (AC), [Institute for Parallel and Distributed Systems](https://www.ipvs.uni-stuttgart.de/), University of Stuttgart 
 
-### Buro Happold
+**Buro Happold** 
 Alessio Lombardi, Dr. Al Fisher, Isak Naslund, Computational Development Buro Happold, London, England https://www.burohappold.com/
 
 
