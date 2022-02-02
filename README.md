@@ -4,7 +4,7 @@ This project is developed as part of a research project of the [Cluster of Excel
 **Project Name**: [Knowledge Representation for Multi-Disciplinary Co-Design of Buildings](https://www.intcdc.uni-stuttgart.de/research/research-projects/rp-20/)
 
 
-**Team**
+**Team:**
 
 **University of Stuttgart**
 Diellza Elshani, Tenure-Track Prof. Dr. Thomas Wortmann, Chair for Computing in Architecture, [Institute for Computational Design and Construction (ICD)](https://www.icd.uni-stuttgart.de/), University of Stuttgart 
