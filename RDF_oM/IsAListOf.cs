@@ -8,11 +8,14 @@ using System.Threading.Tasks;
 
 namespace BH.oM.RDF
 {
-    public class HasElement : IRelation
+    [Description("Can be used to describe that a thing is list of classes.")]
+    public class IsAListOf : IRelation
     {
-        [Description("Element that owns by the other element.")]
+        [Description("Thing that is a list of classes.")]
         public object Subject { get; set; }
-        [Description("Element that is owned by the other element.")]
+        [Description("Class whose type makes the list.")]
         public object Object { get; set; }
+
+        public bool IsBidirectional { get; set; } = false;
     }
 }

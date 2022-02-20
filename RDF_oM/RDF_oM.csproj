@@ -32,7 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Analytical_oM">
-      <HintPath>..\ConsoleApp\bin\Debug\Analytical_oM.dll</HintPath>
+      <HintPath>C:\ProgramData\BHoM\Assemblies\Analytical_oM.dll</HintPath>
     </Reference>
     <Reference Include="BHoM">
       <HintPath>C:\ProgramData\BHoM\Assemblies\BHoM.dll</HintPath>
@@ -52,8 +52,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BHoMTriple.cs" />
+    <Compile Include="IsAListOf.cs" />
+    <Compile Include="NaturalSortComparer.cs" />
+    <Compile Include="RequiresProperty.cs" />
+    <Compile Include="IsA.cs" />
+    <Compile Include="HasProperty.cs" />
+    <Compile Include="IsSubclassOf.cs" />
     <Compile Include="IRelation.cs" />
-    <Compile Include="HasElement.cs" />
     <Compile Include="Log.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
